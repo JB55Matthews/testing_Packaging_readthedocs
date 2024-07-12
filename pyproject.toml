@@ -2,7 +2,7 @@
 name = "testPackage_JBM"
 version = "0.0.1"
 authors = [
-  { name="Jason Matthews", email="blackhedley25@gmail.com" },
+  { name="Jason Matthews"},
 ]
 description = "A small example package"
 readme = "README.md"
