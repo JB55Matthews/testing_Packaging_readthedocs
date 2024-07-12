@@ -1,11 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "testPackage_JBM"
 version = "0.0.1"
+dependencies = [
+  "tensorflow",
+  "numpy",
+  "pyDOE",
+  "matplotlib",
+]
 authors = [
   { name="Jason Matthews"},
 ]
-description = "A small example package"
+description = "A small testing package for readthedocs and packaging"
 readme = "README.md"
+license = {file = "LICENSE.txt"}
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -14,5 +25,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/JB55Matthews/testing_Packaging_readthedocs"
