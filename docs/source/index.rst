@@ -12,7 +12,7 @@ Welcome to testPackage-JBM's documentation!
 
 
 
-Indices and tables
+Indices and tables - 1
 ==================
 
 * :ref:`genindex`
