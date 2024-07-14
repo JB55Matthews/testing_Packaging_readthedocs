@@ -4,7 +4,7 @@ solvers
 src.testPackage_JBM.solvers module
 ----------------------------------
 
-.. automodule:: src.testPackage_JBM.solvers.solve_order1ODE_pinn
+.. automodule:: src.testPackage_JBM.solvers
    :members:
    :undoc-members:
    :show-inheritance:
