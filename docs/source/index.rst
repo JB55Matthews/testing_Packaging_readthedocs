@@ -6,7 +6,7 @@
 Welcome to testPackage-JBM's documentation!
 ===========================================
 
-`testPackage-JBM <https://github.com/JB55Matthews/testing_Packaging_readthedocs>`_ is a testing package for learning to implement readthedocs, which implements a solver for a first order ODE.
+`testPackage-JBM <https://github.com/JB55Matthews/testing_Packaging_readthedocs>`_ is a testing package for learning to implement readthedocs, which implements a solver for a first order ODE-1.
 
 API Refernece
 ---------------
