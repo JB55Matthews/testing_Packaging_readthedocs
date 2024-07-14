@@ -6,6 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import sys
+sys.path.insert(0,os.path.abspath(".."))
+
 project = 'testPackage-JBM'
 copyright = '2024, Jason Matthews'
 author = 'Jason Matthews'
@@ -15,7 +19,10 @@ release = '0.0.10'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "sphinx_rtd_theme"
+    "sphinx_rtd_theme",
+    "sphinx.ext.autodoc",
+    'sphinx.ext.todo',
+    "sphinx.ext.viewcode"
               ]
 
 templates_path = ['_templates']
