@@ -3,4 +3,3 @@ tensorflow
 numpy
 sphinx-rtd-theme
 jax
-https://test.pypi.org/simple/ testPackage-JBM
