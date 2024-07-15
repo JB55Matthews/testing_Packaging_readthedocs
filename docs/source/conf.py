@@ -9,7 +9,7 @@
 import os
 import sys
 
-sys.path.insert(0, os.path.abspath(".."))
+sys.path.insert(0, os.path.abspath("../../src/testPackage_JBM"))
 
 project = 'testPackage_JBM'
 copyright = '2024, Jason Matthews'
@@ -19,7 +19,7 @@ release = '0.0.10'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx.ext.todo", "sphinx.ext.viewcode", "sphinx.ext.autodoc"]
+extensions = ["sphinx.ext.todo", "sphinx.ext.viewcode", "sphinx.ext.autodoc, sphinx.ext.napoleon"]
 
 templates_path = ['_templates']
 exclude_patterns = []
