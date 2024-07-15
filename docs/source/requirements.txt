@@ -3,4 +3,4 @@ tensorflow
 numpy
 sphinx-rtd-theme
 jax
-testPackage_JBM
+testPackage-JBM
