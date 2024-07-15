@@ -8,14 +8,14 @@
 
 import os
 import sys
-from importlib.metadata import version
+import testPackage_JBM
 
 sys.path.insert(0, os.path.abspath("../../src/testPackage_JBM"))
 
 project = 'testPackage_JBM'
 copyright = '2024, Jason Matthews'
 author = 'Jason Matthews'
-release = '0.0.10'
+release = '0.0.11'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
