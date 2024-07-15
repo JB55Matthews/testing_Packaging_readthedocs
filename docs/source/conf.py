@@ -19,7 +19,7 @@ release = '0.0.10'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx.ext.todo", "sphinx.ext.viewcode", "sphinx.ext.autodoc, sphinx.ext.napoleon"]
+extensions = ["sphinx.ext.todo", "sphinx.ext.viewcode", "sphinx.ext.autodoc, "sphinxcontrib.napoleon"]
 
 templates_path = ['_templates']
 exclude_patterns = []
