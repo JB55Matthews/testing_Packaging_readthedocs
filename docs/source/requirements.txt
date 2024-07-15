@@ -1,5 +1,0 @@
-matplotlib
-tensorflow
-numpy
-sphinx-rtd-theme
-jax
