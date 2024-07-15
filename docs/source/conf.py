@@ -8,7 +8,7 @@
 
 import os
 import sys
-import testPackage_JBM
+import testPackage-JBM
 
 sys.path.insert(0, os.path.abspath("../../src/testPackage_JBM"))
 
