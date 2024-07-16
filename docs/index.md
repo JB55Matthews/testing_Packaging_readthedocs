@@ -1,6 +1,7 @@
 # Welcome to test_Package_readthedocs!
 
 Documentation for project testing packaging and documenting a project
+Github project: https://github.com/JB55Matthews/testing_Packaging_readthedocs 
 
 ## Getting Started
 
