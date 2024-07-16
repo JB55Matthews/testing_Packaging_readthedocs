@@ -1,8 +1,11 @@
-site_name: Mklorum
+site_name: test_Packaging_readthedocs
 
 nav:
   - Home: index.md
-  - About: about.md
+  - API: 
+    - solvers: modules/solvers.md
+    - utils: modules/utils.md
+    - pinn: modules/pinn.md
 
 theme: readthedocs
 
