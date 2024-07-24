@@ -10,6 +10,8 @@ Package can be installed with: pip install -i https://test.pypi.org/simple/ test
 
 Then see Example Usage for how to use solver, and read API for all function explanation
 
+$\frac{du}{dt}$
+
 ## Example Usage
 
     import testPackage-JBM.solvers as slv
