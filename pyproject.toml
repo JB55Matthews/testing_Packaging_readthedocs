@@ -14,7 +14,7 @@ dependencies = [
 authors = [
   { name="Jason Matthews"},
 ]
-description = "A small testing package for readthedocs and packaging"
+description = "A small package for readthedocs and packaging for testing"
 readme = "README.md"
 license = {file = "LICENSE.txt"}
 requires-python = ">=3.8"
